@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://EgorDikanskiy.github.io/NervLib",
+  "homepage": "https://EgorDikanskiy.github.io/lukovka",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --mode=development --hot",
     "build": "cross-env NODE_ENV=production webpack --mode=production",
